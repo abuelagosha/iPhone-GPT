@@ -5,7 +5,7 @@ from gtts import gTTS
 from playsound import playsound
 
 # Replace with your OpenAI API key
-api_key = "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"
+api_key = "###"
 
 # Initialize the OpenAI client with your API key
 client = OpenAI(api_key=api_key)
